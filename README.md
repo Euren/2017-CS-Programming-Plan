@@ -166,6 +166,8 @@ Alot of this pertains to Google, but could be useful for interviews elsewhere.
 
 ## Book List
 
+![All the books! Minus Programming Pearls](http://i.imgur.com/wttoQa0.jpg)
+
 ### Interview Prep
 
 - [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](https://www.amazon.com/dp/1118261364/ref=cm_sw_r_cp_ep_dp_0UOwybD9P8B9H)
