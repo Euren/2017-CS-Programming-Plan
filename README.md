@@ -253,11 +253,10 @@ Why code in all of these?
 
 I may not have time to do all of these for every subject, but I'll try.
 
-**Change This Later, For now they are his old links.**
 You can see my code here:
- - [C] (https://github.com/jwasham/practice-c)
- - [C++] (https://github.com/jwasham/practice-cpp)
- - [Python] (https://github.com/jwasham/practice-python)
+ - [C] (https://github.com/TheAlecJustice/c-programming-practice)
+ - [C#](https://github.com/TheAlecJustice/csharp-programming-practice)
+ - [Python] (https://github.com/TheAlecJustice/python-programming-practice)
 
 You don't need to memorize the guts of every algorithm.
 
@@ -276,8 +275,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [ ] **How computers process a program:**
     - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
     - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
-- [ ] **Learn GitHub**
-    - [ ] [GitHub for Windows Developers](https://app.pluralsight.com/library/courses/github-windows-developers/table-of-contents)
+- [x] **Learn GitHub**
+    - [x] [GitHub for Windows Developers](https://app.pluralsight.com/library/courses/github-windows-developers/table-of-contents)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
