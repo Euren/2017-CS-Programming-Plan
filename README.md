@@ -25,11 +25,11 @@ This is my modified version of John Washam's Google Interview University, adding
 	- Cracking the Coding Interview
 	- Programming Interviews Exposed
 	- Algorithm Design Manual
+	- Algorithms by Sedgewick
 	- Programming Pearls
 	- Elements of Programming Interviews in Java (I will convert this to C# code in practice)
 	- Write Great Code 1: Understanding the Machine (if I have time, also Computer Architecture by Hennessy)
 	- Unix Programming Environment and/or The Linux Programming Interface
-	- C++ Primer Plus
 
 ## 5. Coding Question Practice (ties in with interview books above)
 	- Work on problem recognition, learning when to use the right data structures and algorithms.
