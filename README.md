@@ -4,6 +4,8 @@ This is my modified version of John Washam's Google Interview University, adding
 
 ---
 
+![All the books! Minus Programming Pearls](http://i.imgur.com/wttoQa0.jpg)
+
 ## 1. [COMPLETED] Learn Git/Github to upload code for practice. [COMPLETED]
 
 ## 2. Learn C programming basics and how machines interpret code
@@ -12,7 +14,7 @@ This is my modified version of John Washam's Google Interview University, adding
 	- Write Great Code (Computer Architectgure)
 	- The C Programming Language in Action
 
-## 3. Start Daily Plan from GIU
+## 3. Start Daily Plan from GIU [GUI.md]
 	- I will program an implementation of each subject in C, C#, and Python.
 	- I may not have time to do each of these, but I'll try to do all. I will have a
 	   seperate GitHub repo for each language, organized in folders for each subject.
@@ -27,7 +29,7 @@ This is my modified version of John Washam's Google Interview University, adding
 	- Elements of Programming Interviews in Java (I will convert this to C# code in practice)
 	- Write Great Code 1: Understanding the Machine (if I have time, also Computer Architecture by Hennessy)
 	- Unix Programming Environment and/or The Linux Programming Interface
-	- Optional:
+	- C++ Primer Plus
 
 ## 5. Coding Question Practice (ties in with interview books above)
 	- Work on problem recognition, learning when to use the right data structures and algorithms.
