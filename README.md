@@ -2,47 +2,79 @@
 
 This is my modified version of John Washam's Google Interview University, adding in additional resources and removing the Google interview focus to make it solely about CS and programming in general.
 
+This will all be done in line with my regular web development work and practice, which always takes precedent since it's what the job is in!
+
+## Web Development Goals
+
+	- (at work) Have a functional ticketing system written in .NET
+	- (at work) Have a functional network monitor written in MEAN+Python
+	- Design and build 4 fake websites for real companies as mockups
+	- Write a cool interactive web app/game
+	- Additional/option API's to mess with:
+		- Twitter (https://dev.twitter.com/docs)
+		- Pinterest (https://developers.pinterest.com/)
+		- Google Geocoding (https://developers.google.com/maps/documentation/geocoding/start)
+		- Pokemon (http://pokeapi.co/)
+		- Nutritionix (https://www.nutritionix.com/business/api)
+		- The Counted (https://thecountedapi.com/)
+		- Battle.net (https://dev.battle.net/)
+		- Watson (https://watson-api-explorer.mybluemix.net/)
+		- Wolfram Alpha (http://products.wolframalpha.com/api/)
+		- BreweryDB (http://www.brewerydb.com/browse)
+		- Common Crawl (http://commoncrawl.org/)
+		- FitBit (https://dev.fitbit.com/eu)
+		- Steam (https://steamcommunity.com/dev)
+		- Instagram (https://www.instagram.com/developer/)
+		- YouTube Data (https://developers.google.com/youtube/)
+		- Flickr (https://www.flickr.com/services/api/)
+		- Spotify (https://developer.spotify.com/web-api/)
+		- Reddit (https://www.reddit.com/dev/api)
+		- Marvel Comics (http://developer.marvel.com/)
+		- Riot Games (https://developer.riotgames.com/)
+		- Star Wars API (https://swapi.co/)
+		- Government Census Info (http://www.census.gov/data/developers/data-sets/acs-1year.html)
+
 ---
 
 ![All the books! Minus Programming Pearls](http://i.imgur.com/wttoQa0.jpg)
 
-## 1. [COMPLETED] Learn Git/Github to upload code for practice. [COMPLETED]
+## 1. [COMPLETED 12/19/16] Learn Git/Github to upload code for practice. [COMPLETED]
 
-## 2. Learn C programming basics and how machines interpret code
+## 2. Learn C programming basics and how machines interpret code (Finish by mid-January)
 	- The C Programming Language Book
 	- C Programming Language Fundamentals [COMPLETED]
 	- Write Great Code (Computer Architectgure)
 	- The C Programming Language in Action
+	- Some sort of Python and C# refresher
 
-## 3. Start Daily Plan from GIU [GUI.md]
+## 3. Start Daily Plan from GIU [GUI.md] (Finish by end of March)
 	- I will program an implementation of each subject in C, C#, and Python.
 	- I may not have time to do each of these, but I'll try to do all. I will have a
 	   seperate GitHub repo for each language, organized in folders for each subject.
-	- Before writing any code on PC, I will draw it on a whiteboard or on sketchbook paper.
+	- Before writing any code on PC, I will draw it out on a whiteboard or on sketchbook paper.
 	- For subjects with no implementation, I'll take copious notes.
 
-## 4. After having completed each subject on the Daily Plan, I will move onto studying the following books:
+## 4a After having completed each subject on the Daily Plan, I will move onto studying the following books:
 	- Cracking the Coding Interview
 	- Programming Interviews Exposed
 	- Algorithm Design Manual
 	- Algorithms by Sedgewick
 	- Programming Pearls
 	- Elements of Programming Interviews in Java (I will convert this to C# code in practice)
-	- Write Great Code 1: Understanding the Machine (if I have time, also Computer Architecture by Hennessy)
 	- Unix Programming Environment and/or The Linux Programming Interface
 
-## 5. Coding Question Practice (ties in with interview books above)
+## 4b.Coding Question Practice (ties in with interview books above)
 	- Work on problem recognition, learning when to use the right data structures and algorithms.
 	- Implement Algorithm Design Canvas?
 	- Use large sketchbook as a sofa whiteboard
-	- Challenge Sites
-	- LeetCode, TopCoder, Project Euler, Codewars, HackerRank, Codility, InterviewCake, InterviewBit
+	- Challenge Sites:
+		- LeetCode, TopCoder, Project Euler, Codewars, HackerRank, Codility, InterviewCake, InterviewBit
 
-## 6. Additional Learning
+## 5. Additional Learning
 	- C++ Primer Plus
 	- Unix and Linux System Administration Handbook
 	- The Linux Command Line
 	- Design Patters: Elements of Reusable Object-Oriented Software
 	- Site Reliability Engineering
 	- Learn emacs and vi(m)
-	- Take list from GIU
+	- Take list of additional learning from GIU
