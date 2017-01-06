@@ -43,9 +43,10 @@ This will all be done in line with my regular web development work and practice,
 ## 2. Learn C programming basics and how machines interpret code (Finish by mid-January)
 	- The C Programming Language Book
 	- C Programming Language Fundamentals [COMPLETED]
-	- Write Great Code (Computer Architectgure)
+	- Write Great Code (Computer Architectgure) [MOVED TO REFERENCE]
 	- The C Programming Language in Action
-	- Some sort of Python and C# refresher
+	- Udemy - Complete Python Master Class
+	- C# Fundamentals with Visual Studio 2015
 
 ## 3. Start Daily Plan from GIU [GUI.md] (Finish by end of March)
 	- I will program an implementation of each subject in C, C#, and Python.

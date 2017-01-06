@@ -1,9 +1,3 @@
-# 2017 CS/Programming Study Plan
-
-This is my modified version of John Washam's Google Interview University, adding in additional resources and removing the Google interview focus to make it solely about CS and programming in general.
-
----
-
 ## Table of Contents
 
 - [Follow Along with Me](#follow-along-with-me)
@@ -270,12 +264,12 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - This is a short book, but it will give you a great handle on the C language and if you practice it a little 
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
         - [answers to questions](https://github.com/lekkas/c-algorithms) 
-    - [ ] [C Programming Language Fundamentals](https://app.pluralsight.com/library/courses/c-lang-fundamentals/table-of-contents)
+    - [x] [C Programming Language Fundamentals](https://app.pluralsight.com/library/courses/c-lang-fundamentals/table-of-contents)
     - [ ] [The C Programming Language in Action](https://app.pluralsight.com/library/courses/c-programming-language-in-action/table-of-contents)
 - [ ] **How computers process a program:**
     - [ ] [Write Great Code: Volume 1]
-    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+    - [x] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [x] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 - [x] **Learn GitHub**
     - [x] [GitHub for Windows Developers](https://app.pluralsight.com/library/courses/github-windows-developers/table-of-contents)
 
