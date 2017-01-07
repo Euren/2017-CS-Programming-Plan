@@ -41,9 +41,9 @@ This will all be done in line with my regular web development work and practice,
 ## 1. [COMPLETED 12/19/16] Learn Git/Github to upload code for practice. [COMPLETED]
 
 ## 2. Learn C programming basics and how machines interpret code (Finish by mid-January)
-	- The C Programming Language Book
-	- C Programming Language Fundamentals [COMPLETED]
+	- The C Programming Language Book [MOVED TO REFERENCE]
 	- Write Great Code (Computer Architectgure) [MOVED TO REFERENCE]
+	- C Programming Language Fundamentals [COMPLETED]
 	- The C Programming Language in Action
 	- Udemy - Complete Python Master Class
 	- C# Fundamentals with Visual Studio 2015
@@ -63,11 +63,13 @@ This will all be done in line with my regular web development work and practice,
 	- Programming Pearls
 	- Elements of Programming Interviews in Java (I will convert this to C# code in practice)
 	- Unix Programming Environment and/or The Linux Programming Interface
+	- Problem Solving with Algorithms and Data Structures Using Python
 
 ## 4b.Coding Question Practice (ties in with interview books above)
 	- Work on problem recognition, learning when to use the right data structures and algorithms.
 	- Implement Algorithm Design Canvas?
 	- Use large sketchbook as a sofa whiteboard
+	- Purchase a whiteboard?
 	- Challenge Sites:
 		- LeetCode, TopCoder, Project Euler, Codewars, HackerRank, Codility, InterviewCake, InterviewBit
 
