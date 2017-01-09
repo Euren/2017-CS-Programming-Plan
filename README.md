@@ -40,7 +40,7 @@ This will all be done in line with my regular web development work and practice,
 
 ## 1. [COMPLETED 12/19/16] Learn Git/Github to upload code for practice. [COMPLETED]
 
-## 2. Learn C programming basics and how machines interpret code (Finish by mid-January)
+## 2. Learn C programming basics and how machines interpret code (Finish by end of January)
 	- The C Programming Language Book [MOVED TO REFERENCE]
 	- Write Great Code (Computer Architectgure) [MOVED TO REFERENCE]
 	- C Programming Language Fundamentals [COMPLETED]
