@@ -23,6 +23,8 @@ Assorted notes from books, websites and videos on both Technical and Business In
 	- Clarify the question, they will be vague, ask questions!
 	- Keep thinking, the first solution may not be the best!
 	- Pracctice, practice, practice!
+	
+##Other Videos
 
 ###Always Be Coding
 	- Always Be Coding:
@@ -33,5 +35,11 @@ Assorted notes from books, websites and videos on both Technical and Business In
 	- Implement the most common data structures in your language. Don't use common libraries.
 	- Make coding look easy.
 	- Be happy, positive, and passionate.
+
+##Books
+
+###Programming Interviews Exposed
+
+
 
 #Business Interviews
