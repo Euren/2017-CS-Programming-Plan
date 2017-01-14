@@ -48,14 +48,7 @@ This will all be done in line with my regular web development work and practice,
 	- Udemy - Complete Python Master Class [COMPLETED]
 	- C# Fundamentals with Visual Studio 2015 [COMPLETED]
 
-## 3. Start Daily Plan from GIU [GUI.md] (Finish by end of March)
-	- I will program an implementation of each subject in C, C#, and Python.
-	- I may not have time to do each of these, but I'll try to do all. I will have a
-	   seperate GitHub repo for each language, organized in folders for each subject.
-	- Before writing any code on PC, I will draw it out on a whiteboard or on sketchbook paper.
-	- For subjects with no implementation, I'll take copious notes.
-
-## 4a After having completed each subject on the Daily Plan, I will move onto studying the following books:
+## 3a Using the references for each subject on the Daily Plan, I will move onto studying the following books:
 	- Cracking the Coding Interview
 	- Programming Interviews Exposed
 	- Algorithm Design Manual
@@ -65,7 +58,13 @@ This will all be done in line with my regular web development work and practice,
 	- Unix Programming Environment and/or The Linux Programming Interface
 	- Problem Solving with Algorithms and Data Structures Using Python
 
-## 4b.Coding Question Practice (ties in with interview books above)
+	- I will program an implementation of each subject in C, C#, and Python.
+	- I may not have time to do each of these, but I'll try to do all. I will have a
+	   seperate GitHub repo for each language, organized in folders for each subject.
+	- Before writing any code on PC, I will draw it out on a whiteboard or on sketchbook paper.
+	- For subjects with no implementation, I'll take copious notes.
+
+## 3b.Coding Question Practice (ties in with interview books above)
 	- Work on problem recognition, learning when to use the right data structures and algorithms.
 	- Implement Algorithm Design Canvas?
 	- Use large sketchbook as a sofa whiteboard
@@ -73,7 +72,7 @@ This will all be done in line with my regular web development work and practice,
 	- Challenge Sites:
 		- LeetCode, TopCoder, Project Euler, Codewars, HackerRank, Codility, InterviewCake, InterviewBit
 
-## 5. Additional Learning
+## 4. Additional Learning
 	- C++ Primer Plus
 	- Unix and Linux System Administration Handbook
 	- The Linux Command Line
