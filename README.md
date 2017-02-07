@@ -6,8 +6,8 @@ This will all be done in line with my regular web development work and practice,
 
 ## Web Development Goals
 
-	- (at work) Have a functional ticketing system written in .NET
-	- (at work) Have a functional network monitor written in MEAN+Python
+	- (at work) Have a functional ticketing system written in .NET [CURRENTLY WORKING ON]
+	- (at work) Have a functional network monitor written in .NET [CURRENTLY WORKING ON]
 	- Design and build 4 fake websites for real companies as mockups
 	- Write a cool interactive web app/game
 	- Additional/option API's to mess with:
@@ -40,7 +40,7 @@ This will all be done in line with my regular web development work and practice,
 
 ## 1. [COMPLETED 12/19/16] Learn Git/Github to upload code for practice. [COMPLETED]
 
-## 2. Learn C programming basics and how machines interpret code (Finish by end of January)
+## 2. Learn C programming basics and how machines interpret code [COMPLETED 1/25/16]
 	- The C Programming Language Book [COMPLETED - MOVED TO REFERENCE]
 	- Write Great Code (Computer Architectgure) [COMPLETED - MOVED TO REFERENCE]
 	- C Programming Language Fundamentals [COMPLETED]
