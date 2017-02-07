@@ -44,7 +44,7 @@ This will all be done in line with my regular web development work and practice,
 	- The C Programming Language Book [COMPLETED - MOVED TO REFERENCE]
 	- Write Great Code (Computer Architectgure) [COMPLETED - MOVED TO REFERENCE]
 	- C Programming Language Fundamentals [COMPLETED]
-	- The C Programming Language in Action 
+	- The C Programming Language in Action [COMPLETED]
 	- Udemy - Complete Python Master Class [COMPLETED]
 	- C# Fundamentals with Visual Studio 2015 [COMPLETED]
 
@@ -52,7 +52,7 @@ This will all be done in line with my regular web development work and practice,
 	- Cracking the Coding Interview
 	- Programming Interviews Exposed
 	- Algorithm Design Manual
-	- Algorithms by Sedgewick
+	- Algorithms by Sedgewick [CURRENTLY READING]
 	- Programming Pearls
 	- Elements of Programming Interviews in Java (I will convert this to C# code in practice)
 	- Unix Programming Environment and/or The Linux Programming Interface
@@ -72,7 +72,7 @@ This will all be done in line with my regular web development work and practice,
 	- Challenge Sites:
 		- LeetCode, TopCoder, Project Euler, Codewars, HackerRank, Codility, InterviewCake, InterviewBit
 
-## 4. Additional Learning
+## 4. Additional Learning (Optional, if I have time)
 	- C++ Primer Plus
 	- Unix and Linux System Administration Handbook
 	- The Linux Command Line
@@ -80,3 +80,4 @@ This will all be done in line with my regular web development work and practice,
 	- Site Reliability Engineering
 	- Learn emacs and vi(m)
 	- Take list of additional learning from GIU
+	
