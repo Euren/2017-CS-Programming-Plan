@@ -52,12 +52,19 @@ This will all be done in line with my regular web development work and practice,
 	- Cracking the Coding Interview
 	- Programming Interviews Exposed
 	- Algorithm Design Manual
-	- Algorithms by Sedgewick
+	- Algorithms by Sedgewick [WAITING ON  SECOND MOOC, FINISHED WITH FIRST]
 	- Programming Pearls
 	- Elements of Programming Interviews in Java (I will convert this to C# code in practice)
 	- Unix Programming Environment and/or The Linux Programming Interface
 	- Problem Solving with Algorithms and Data Structures Using Python
-
+	
+	Job Specific
+	- Database Design for Mere Mortals [COMPLETED]
+	- SQL Queries for Mere Mortals [CURRENTLY READING]
+	- Teach Yourself ASP 3.0 in 21 Days [CURRENTLY READING]
+	- Beginning ASP 3.0
+	- Beginning ASP.NET with C# and VB
+	
 	- I will program an implementation of each subject in C, C#, and Python.
 	- I may not have time to do each of these, but I'll try to do all. I will have a
 	   seperate GitHub repo for each language, organized in folders for each subject.
