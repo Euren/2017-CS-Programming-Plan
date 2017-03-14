@@ -61,9 +61,23 @@ This will all be done in line with my regular web development work and practice,
 	Job Specific
 	- Database Design for Mere Mortals [COMPLETED]
 	- SQL Queries for Mere Mortals [CURRENTLY READING]
-	- Teach Yourself ASP 3.0 in 21 Days [CURRENTLY READING]
-	- Beginning ASP 3.0
+	- Teach Yourself ASP 3.0 in 21 Days [COMPLETED]
+	- Beginning ASP 3.0 [COVERS SAME AS ABOVE, MOVED TO REFERENCE]
 	- Beginning ASP.NET with C# and VB
+
+	TreeHouse Paths
+	- Web Design [CURRENTLY WORKING]
+	- Front-End Web Development
+	- Full Stack Javascript
+	- ASP.NET Web Development
+	- Beginner Android Development
+	- Beginner iOS Development
+	- Learn Swift
+	- Learn React
+	- Learn Python
+	- Learn Flask
+	- Learn Django
+	- Beginner Game Development with Unity (if I have time)
 	
 	- I will program an implementation of each subject in C, C#, and Python.
 	- I may not have time to do each of these, but I'll try to do all. I will have a
