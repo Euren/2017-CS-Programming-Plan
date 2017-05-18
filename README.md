@@ -49,11 +49,15 @@ This will all be done in line with my regular web development work and practice,
 	- C# Fundamentals with Visual Studio 2015 [COMPLETED]
 
 ## 3a Using the references for each subject on the Daily Plan, I will move onto studying the following books:
+	
+	[NOTE: My study of Algorithms will probably wait until TreeHouse is finished, and my math is refreshed.]
+
 	- Cracking the Coding Interview
 	- Programming Interviews Exposed
 	- Algorithm Design Manual
 	- Algorithms by Sedgewick [WAITING ON  SECOND MOOC, FINISHED WITH FIRST]
 	- Programming Pearls
+	- Refactoring: Imporoving the Design of Existing Code [COMPLETED]
 	- Elements of Programming Interviews in Java (I will convert this to C# code in practice)
 	- Unix Programming Environment and/or The Linux Programming Interface
 	- Problem Solving with Algorithms and Data Structures Using Python
@@ -65,10 +69,10 @@ This will all be done in line with my regular web development work and practice,
 	- Beginning ASP 3.0 [COVERS SAME AS ABOVE, MOVED TO REFERENCE]
 	- Beginning ASP.NET with C# and VB
 
-	TreeHouse Paths
-	- Web Design [CURRENTLY WORKING]
-	- Front-End Web Development
-	- Full Stack Javascript
+	TreeHouse Paths [CURRENT FOCUS]
+	- Web Design [COMPLETED]
+	- Front-End Web Development [COMPLETED]
+	- Full Stack Javascript [IN PROGRESS]
 	- ASP.NET Web Development
 	- Beginner Android Development
 	- Beginner iOS Development
@@ -79,13 +83,14 @@ This will all be done in line with my regular web development work and practice,
 	- Learn Django
 	- Beginner Game Development with Unity (if I have time)
 	
+	For my algorithms and CS Study:
 	- I will program an implementation of each subject in C, C#, and Python.
 	- I may not have time to do each of these, but I'll try to do all. I will have a
 	   seperate GitHub repo for each language, organized in folders for each subject.
 	- Before writing any code on PC, I will draw it out on a whiteboard or on sketchbook paper.
 	- For subjects with no implementation, I'll take copious notes.
 
-## 3b.Coding Question Practice (ties in with interview books above)
+## 3b.Coding Question Practice (ties in with CS books above)
 	- Work on problem recognition, learning when to use the right data structures and algorithms.
 	- Implement Algorithm Design Canvas?
 	- Use large sketchbook as a sofa whiteboard
@@ -97,8 +102,8 @@ This will all be done in line with my regular web development work and practice,
 	- C++ Primer Plus
 	- Unix and Linux System Administration Handbook
 	- The Linux Command Line
-	- Design Patters: Elements of Reusable Object-Oriented Software
+	- Design Patterns: Elements of Reusable Object-Oriented Software
 	- Site Reliability Engineering
-	- Learn emacs and vi(m)
+	- Learn vi(m) [IN PROGRESS]
 	- Take list of additional learning from GIU
 	
